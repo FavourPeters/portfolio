@@ -4,7 +4,8 @@ const projects = [
     title: "Media Content Bank",
     description:
       "A media content bank users to draw inspiration from various media content.",
-    image: "/mcb.png",
+    image:
+      "https://res.cloudinary.com/du0gpfjv8/image/upload/v1754872480/mcb_np9ig9.png",
     link: "https://media-content-bank.netlify.app/",
     github: "private",
     techStack: ["Nextjs", "Nodejs", "Express.js", "MongoDB"],
@@ -14,7 +15,8 @@ const projects = [
     title: "Digireal - Real Estate",
     description:
       "A real estate platform featuring user authentication and property listings. Backend developed by me.",
-    image: "/digireal.png",
+    image:
+      "https://res.cloudinary.com/du0gpfjv8/image/upload/v1754872475/digireal_eo91rd.png",
     link: "https://www.digireal.net/",
     github: "private",
     techStack: ["Nextjs", "Nodejs", "Express.js", "MongoDB"],
@@ -34,7 +36,8 @@ const projects = [
     title: "Rock Paper Scissors",
     description:
       "An exciting and popular game. This is one of my practice projects with the use of javaScript OOP.",
-    image: "/game.png",
+    image:
+      "https://res.cloudinary.com/du0gpfjv8/image/upload/v1754872475/game_jigeid.png",
     link: "https://rocks-papers-scissorrs.netlify.app/",
     github: "https://github.com/FavourPeters/rock-paper_scissors",
     techStack: ["React", "OOP"],
