@@ -1,6 +1,17 @@
 const projects = [
   {
     id: 1,
+    title: "WebApp for Businesses",
+    description:
+      "Still under development. The full details would be shared once completed. Expected to be launched by Q4 2025",
+    image:
+      "https://res.cloudinary.com/du0gpfjv8/image/upload/v1761928555/ChatGPT_Image_Oct_31_2025_05_35_13_PM_eyyulb.png",
+    link: "https://favour-peters.netlify.app/",
+    github: "private",
+    techStack: ["In progress"],
+  },
+  {
+    id: 2,
     title: "Media Content Bank",
     description:
       "A media content bank users to draw inspiration from various media content.",
@@ -11,7 +22,7 @@ const projects = [
     techStack: ["Nextjs", "Nodejs", "Express.js", "MongoDB"],
   },
   {
-    id: 2,
+    id: 3,
     title: "Digireal - Real Estate",
     description:
       "A real estate platform featuring user authentication and property listings. Backend developed by me.",
@@ -22,7 +33,7 @@ const projects = [
     techStack: ["Nextjs", "Nodejs", "Express.js", "MongoDB"],
   },
   {
-    id: 3,
+    id: 4,
     title: "Hospiyou",
     description:
       "A landing page for a healthcare platform with email subscription.",
@@ -32,7 +43,7 @@ const projects = [
     techStack: ["React", "Express.js", "MongoDB"],
   },
   {
-    id: 4,
+    id: 5,
     title: "Rock Paper Scissors",
     description:
       "An exciting and popular game. This is one of my practice projects with the use of javaScript OOP.",
